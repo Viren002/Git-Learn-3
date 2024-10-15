@@ -1,0 +1,7 @@
+Trying to add 2nd text file. 
+
+what I understood is that to add in my own repo, I need to initialize an empty repo without
+any kind of files, including README.md file" .
+
+if there are pre-added files in the initialized repo then I will have to clone that repo locally 
+then merge my changed my files into the cloned repo .
